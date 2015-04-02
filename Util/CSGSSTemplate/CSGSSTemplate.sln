@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSGSSTemplate", "CSGSSTemplate\CSGSSTemplate.csproj", "{8BF09C9E-3ED8-400A-98E4-750460C355DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF09C9E-3ED8-400A-98E4-750460C355DE}.Debug|x86.ActiveCfg = Debug|x86
+		{8BF09C9E-3ED8-400A-98E4-750460C355DE}.Debug|x86.Build.0 = Debug|x86
+		{8BF09C9E-3ED8-400A-98E4-750460C355DE}.Release|x86.ActiveCfg = Release|x86
+		{8BF09C9E-3ED8-400A-98E4-750460C355DE}.Release|x86.Build.0 = Release|x86
+		{48B35EFA-EC65-401D-8C0B-3BE1DEA0D93D}.Debug|x86.ActiveCfg = Debug|x86
+		{48B35EFA-EC65-401D-8C0B-3BE1DEA0D93D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
